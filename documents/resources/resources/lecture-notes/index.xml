@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6.057 Introduction to MATLAB, Lecture 1: Introduction</title>
+      <link>/resources/mit6_057iap19_lec1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_057iap19_lec1/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6.057 Introduction to MATLAB, Lecture 2: Visualization and Programming</title>
+      <link>/resources/mit6_057iap19_lec2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_057iap19_lec2/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6.057 Introduction to MATLAB, Lecture 3: Solving Equations, Curve Fitting, and Numerical Techniques</title>
+      <link>/resources/mit6_057iap19_lec3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_057iap19_lec3/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6.057 Introduction to MATLAB, Lecture 4: Advanced Methods</title>
+      <link>/resources/mit6_057iap19_lec4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_057iap19_lec4/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6.057 Introduction to MATLAB, Lecture 5: Various Functions and Toolboxes</title>
+      <link>/resources/mit6_057iap19_lec5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_057iap19_lec5/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>This class meets for five sessions running Monday through Friday for one week.
+Lecture notes are adapted from the 2010 version of this course on OCW by Danilo Šćepanović.
+Ses # Topics 1
+Lecture 1: Introduction to MATLAB (PDF - 2.8MB)
+Getting Started Scripts Making Variables Manipulating Variables Basic Plotting 2
+Lecture 2: Visualization and Programming (PDF - 2.3 MB)
+Functions Flow Control Line Plots Image/Surface Plots Efficient Codes Debugging 3</description>
+    </item>
+    
+  </channel>
+</rss>

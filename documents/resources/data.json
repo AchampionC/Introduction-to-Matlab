@@ -1,0 +1,20 @@
+{
+  "course_title":"Introduction to MATLAB",
+  "course_description":"This is an accelerated introduction to MATLAB® and its popular toolboxes. Lectures are interactive, with students conducting sample MATLAB problems in real time. The course includes problem-based MATLAB assignments. Students must provide their own laptop and software. This is great preparation for classes that use MATLAB.\n",
+  "site_uid":"70363494-8558-418c-b8f1-2c0f570acd46",
+  "legacy_uid":"b621a9c4-01e5-5856-0b7d-82d464af4c83","instructors": [{
+    "first_name":"Orhan",
+    "last_name":"Celiker",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"Orhan Celiker"}],"department_numbers":["6"],
+  "learning_resource_types":["Programming Assignments","Lecture Notes"],
+  "topics":[["Engineering","Computer Science","Graphics and Visualization"],["Engineering","Computer Science","Programming Languages"]],
+  "primary_course_number":"6.057",
+  "extra_course_numbers":"",
+  "term":"January IAP",
+  "year":"2019",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/20d4110b5815d78f84876f348a30d844_6-057IAP19.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/6-057-introduction-to-matlab-january-iap-2019/20d4110b5815d78f84876f348a30d844_6-057IAP19.jpg","file_type":"image/jpeg","image_metadata":{"caption":"Image of a colormap created with the output of the surf function in MATLAB®. (Image courtesy of instructor).","credit":"","image-alt":"Yellow and blue surface plot colormap."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-057IAP19.jpg","uid":"20d4110b-5815-d78f-8487-6f348a30d844"}}
+

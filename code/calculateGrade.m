@@ -1,0 +1,10 @@
+load('classGrades.mat');
+grades = namesAndGrades(1 : end, 2 : end);
+meanGrades = nanmean(grades);
+meanMatrix = ones(15, 1) * meanGrades;
+curvedGrades = 3.5 * (grades ./ meanMatrix);
+curvedGrades(curvedGrades(1 : end, 1 : end) > 5) = 5;
+%curvedGrades = nanmean(curvedGrades);
+totalGrade = ceil(nanmean(curvedGrades, 2));
+letter = 'FDCBA';
+letterGrades = letter(totalGrade);
