@@ -1,6 +1,0 @@
-
-{
-  "title":"Lecture Notes",
-  "content":"This class meets for five sessions running Monday through Friday for one week.\nLecture notes are adapted from the 2010 version of this course on OCW by Danilo Šćepanović.\nSes # Topics 1\nLecture 1: Introduction to MATLAB (PDF - 2.8MB)\nGetting Started Scripts Making Variables Manipulating Variables Basic Plotting 2\nLecture 2: Visualization and Programming (PDF - 2.3 MB)\nFunctions Flow Control Line Plots Image/Surface Plots Efficient Codes Debugging 3\nLecture 3: Solving Equations, Curve Fitting, and Numerical Techniques (PDF - 1.2MB)\nLinear Algebra Polynomials Optimization Differentiation/Integration Differential Equations 4\nLecture 4: Advanced Methods (PDF)\nProbability and Statistics Data Structures Images File I/O 5\nLecture 5: Various Functions and Toolboxes (PDF - 3.3MB)\nDocumentation Miscellaneous Useful Functions Graphical User Interfaces Simulink Symbolic Toolbox Image Processing Hardware Interface "}
-
-
